@@ -19,6 +19,6 @@ jobs:
     - name: Run tests
       working-directory: server/
       run: cargo test --verbose
-    - name: Run
-      working-directory: server/
-      run: cargo run --verbose
+    #- name: Run
+     # working-directory: server/
+      #run: cargo run --verbose
