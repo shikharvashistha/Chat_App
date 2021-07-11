@@ -1,4 +1,4 @@
-# Chat_App_Rustlang
+# Chat_App
 
 Multiple Threaded Client-Server Chat application
 
